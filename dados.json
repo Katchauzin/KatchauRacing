@@ -1,0 +1,32 @@
+[
+  {
+    "imagem": "https://tse4.mm.bing.net/th/id/OIP.2dQ8aiZIFDdSSGdr6Rbo_AHaEe?rs=1&pid=ImgDetMain&o=7&rm=3",
+    "modelo": "Mustang GT",
+    "fabricante": "Ford",
+    "velocidade": "250 km/h"
+  },
+  {
+    "imagem": "https://www.motortrend.com/uploads/2023/06/2024-Chevrolet-Camaro-Collectors-Edition-1.jpg",
+    "modelo": "Camaro SS",
+    "fabricante": "Chevrolet",
+    "velocidade": "240 km/h"
+  },
+  {
+    "imagem": "https://tse4.mm.bing.net/th/id/OIP.H88lVV83-BS7SfV9vmJX4QHaEo?rs=1&pid=ImgDetMain&o=7&rm=3",
+    "modelo": "Civic Type R",
+    "fabricante": "Honda",
+    "velocidade": "270 km/h"
+  },
+  {
+    "imagem": "https://tse3.mm.bing.net/th/id/OIP.2gCb5sTIJUWXHG-P4U11XQHaEK?rs=1&pid=ImgDetMain&o=7&rm=3",
+    "modelo": "Supra MK5",
+    "fabricante": "Toyota",
+    "velocidade": "250 km/h"
+  },
+  {
+    "imagem": "https://s1.cdn.autoevolution.com/images/gallery/NISSAN-GT-R--R35--Nismo-5327_54.jpg",
+    "modelo": "GTR R35",
+    "fabricante": "Nissan",
+    "velocidade": "315 km/h"
+  }
+]

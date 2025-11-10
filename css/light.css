@@ -1,0 +1,37 @@
+:root {
+  --bg-color: #ffffff;
+  --text-color: #222222;
+  --card-bg: #f4f4f4;
+  --input-bg: #ffffff;
+  --input-text: #333333;
+}
+body {
+  background-color: #ffffff !important;
+  color: #222222 !important;
+}
+
+.card, .table, .form-control {
+  background: var(--card-bg);
+  color: var(--text-color);
+}
+.form-control {
+  background: var(--input-bg);
+  color: var(--input-text);
+}
+.theme-btn {
+  width: 45px;
+  height: 45px;
+  border-radius: 50%;
+  border: none;
+  font-size: 24px;
+  cursor: pointer;
+  background: #ffdd57;
+  box-shadow: 0 0 10px #ffdd57;
+  transition: 0.3s;
+}
+
+.theme-btn:hover {
+  transform: scale(1.15) rotate(10deg);
+}
+
+
